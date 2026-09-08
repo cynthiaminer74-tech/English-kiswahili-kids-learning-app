@@ -1,0 +1,21 @@
+{
+  "name": "english-kiswahili-kids",
+  "version": "1.0.0",
+  "description": "English Kiswahili Kids — Grade 1 Kiswahili CBC flashcards with audio pronunciation, interactive categories, matching game, and Twiga stickers.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Build OK'"
+  },
+  "keywords": [
+    "English Kiswahili Kids",
+    "Kiswahili for kids",
+    "Grade 1 Kiswahili",
+    "learn Kiswahili Kenya",
+    "CBC Grade 1",
+    "flashcards"
+  ],
+  "author": "AI Studio",
+  "license": "MIT"
+}

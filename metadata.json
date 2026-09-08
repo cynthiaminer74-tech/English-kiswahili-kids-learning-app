@@ -1,0 +1,6 @@
+{
+  "name": "English Kiswahili Kids",
+  "description": "English Kiswahili Kids — Grade 1 Kiswahili CBC flashcards with audio pronunciation, interactive categories, matching game, and Twiga stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
